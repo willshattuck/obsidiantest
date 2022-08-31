@@ -3,6 +3,8 @@ Our [[Characters]] are 18 year old youths going on the Quest of the Everflame as
 
 They are:
 
+They aren't bullets working.
+
 - [[Fighter Bruna Holden]]
 - [[Cleric Rodrick Evans]]
 - [[Wizard Celestia Windborne]]
