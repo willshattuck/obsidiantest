@@ -7,7 +7,7 @@ They are:
 - [[Wizard Celestia Windborne]]
 - [[Rogue Stek Wiggleton]]
 
-
+test
 
 Level 1 of the crypt
 
