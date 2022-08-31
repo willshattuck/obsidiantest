@@ -1,4 +1,4 @@
-The story so far...\
+The story so far... blah de blah blah.
 
 Our [[Characters]] are 18 year old youths going on the Quest of the Everflame as their right of passage.
 
