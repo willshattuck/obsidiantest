@@ -5,6 +5,7 @@ The story so far...
 Our characters are 18 year old youths going on the Quest of the Everflame as their right of passage.
 
 They are:
+
 - [[Fighter Bruna Holden]]
 - [[Cleric Rodrick Evans]]
 - [[Wizard Celestia Windborne]]
