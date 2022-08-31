@@ -1,1 +1,2 @@
-Fighter Bruna Holden
+Bruna Holden
+Fighter: 1
