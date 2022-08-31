@@ -1,5 +1,7 @@
 # Obsidian Notes
 
+[[Crypt of the Everflame]]
+
 Publish your public notes with MkDocs
 
 ## Hello World!
