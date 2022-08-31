@@ -1,13 +1,16 @@
-# Obsidian Notes
+# Crypt of the Everflame Solo RPG Playthrough
 
-[[Crypt of the Everflame]]
+The story so far...
 
-Publish your public notes with MkDocs
+Our characters are 18 year old youths going on the Quest of the Everflame as their right of passage.
 
-## Hello World!
+They are:
+- [[Fighter Bruna Holden]]
+- [[Cleric Rodrick Evans]]
+- [[Wizard Celestia Windborne]]
+- [[Rogue Stek Wiggleton]]
 
-The `index.md` in the `/docs` folder is the homepage you see here.
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+Level 1 of the crypt
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+![[Drawing 2022-08-23 13.51.22.excalidraw]]
