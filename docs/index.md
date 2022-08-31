@@ -11,6 +11,11 @@ They are:
 - [[Wizard Celestia Windborne]]
 - [[Rogue Stek Wiggleton]]
 
+Sessions:
+
+- [[Day 01 - Rite of Passage - Find and return the Everflame]]
+- [[Day 02 - At the Crypt]]
+- 
 
 Level 1 of the crypt
 
